@@ -1,6 +1,9 @@
 <h2>Tensorflow-Image-Segmentation-New-Bone-Metastases (Updated: 2025/05/12)</h2>
 
-This is the second experiment of Image Segmentation for New-Bone-Metastases
+This is the first experiment of Image Segmentation for New-Bone-Metastases 
+<a href="https://www.sciencedirect.com/science/article/abs/pii/S0957417423008783">
+BM-Seg: A new bone metastases segmentation dataset and ensemble of CNN-based segmentation approach</a>
+<br>
  based on 
 the latest <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
 <a href="https://drive.google.com/drive/folders/1T4ldxMgGlLT3ji2yEqaPNq2Ppf4sjiuz">
