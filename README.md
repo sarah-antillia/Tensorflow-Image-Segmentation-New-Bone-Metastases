@@ -74,10 +74,10 @@ https://www.sciencedirect.com/science/article/abs/pii/S0957417423008783</a>
 2 New-Bone-Metastases ImageMask Dataset
 </a>
 </h3>
- If you would like to train this New-Bone-MetastasesSegmentation model by yourself,
+ If you would like to train this New-Bone-Metastases Segmentation model by yourself,
  please download the dataset from the google drive 
  <a href="https://drive.google.com/drive/folders/1T4ldxMgGlLT3ji2yEqaPNq2Ppf4sjiuz">
-BM-Seg.zip</a>, expand the downloaded it and put it under <b>./generator</b> folder and 
+BM-Seg.zip</a>, expand the downloaded and put it under <b>./generator</b> folder and 
 run <a href="./generator/split_master.py">split_master</a>
 <br>
 <pre>
